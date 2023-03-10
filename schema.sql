@@ -1,0 +1,5 @@
+- id (INT, primary key, auto-increment)
+- first_name (VARCHAR(255))
+- last_name (VARCHAR(255))
+- role_id (INT)
+- manager_id (INT)
